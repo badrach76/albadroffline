@@ -1,0 +1,11 @@
+{
+  "name": "وحدة إنتاج زيت الزيتون البدر",
+  "short_name": "البدر",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f6f4",
+  "theme_color": "#174b3b",
+  "icons": []
+}
